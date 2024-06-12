@@ -1,4 +1,13 @@
-GNU GENERAL PUBLIC LICENSE
+# Work Enforcer 🚧
+Work enforcer is an app for all the minumum wage hourly jobs out there
+We make it a goal to plan hours and calculate salery easily 
+
+
+
+
+
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
